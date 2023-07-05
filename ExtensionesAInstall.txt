@@ -1,0 +1,5 @@
+la -D es para Desarollo 
+
+// Es una libreria de eslint especificamente para TS
+ts-standard -D 
+
